@@ -1,6 +1,6 @@
 ## NextJS, Prisma (MongoDB) and Next-Auth boilerplate
 
----
+This template uses Google and Github as auth providers but can be easily extended to support additional providers ( Apple, BitBucket, etc ).
 
 ### Setup and run
 
