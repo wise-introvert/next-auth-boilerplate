@@ -28,9 +28,15 @@ h6 {
   display: inline;
   font-weight: "bold";
   font-family: "Major Mono Display";
-  background: linear-gradient(transparent calc(80% - 5px), yellow 5px);
-  background-repeat: no-repeat;
+  /* background: linear-gradient(transparent calc(80% - 5px), yellow 5px); */
+  /* background-repeat: no-repeat; */
   display: inline;
-  background-size: 100%;
+  /* background-size: 100%; */
   transition: 0.5s ease;
+}
+
+.underline {
+  background: linear-gradient(transparent calc(80% - 5px), yellow 5px);
+  background-size: 100%;
+  background-repeat: no-repeat;
 }
